@@ -1,2 +1,4 @@
-# Magnetic_levitation_system_Linear_controller 
+# Magnetic levitation system : Reduced State Observer Feedback Control 
 MATLAB script for Linear Controllers of Magnetic Leviatation System
+
+The objective of this project report is to design controller for Magnetic Levitation system by using classical and modern control theory approach. In this study, a magnetic levitation system model is first identified by using simplified equations of motion. In order to use classical and modern theory, the simplified model is linearized using taylor's series expansion about operating point.Then all the aspects of modern control theory as well as classical control theory such as transfer function, step response, bode plot, root Locus, PID control, full state feedback control and observer design are analyzed.The performance is then evaluated in MATLAB simulation environment.
